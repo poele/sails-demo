@@ -44,9 +44,9 @@ sails is very similar to its homophone counterpart, rails, in that it works on t
 
 4. since we're only doing a little hello world app for now, head over to **config → routes** and make a route for the homepage. the routes file in sails takes routes as hashes; so write your route as a string followed by a colon, and then inside of your route hash, write view with a colon and then the view you want to route to rely on as a string. since we're going to the homepage, we're going to use *index* as the view.
 
-``` &quot;\\&quot;: {
-	view: &quot;index&quot; 
-}
+``` &quot;\\&quot;: {   
+	view: &quot;index&quot;   
+}   
 ```
 
 (note: you could just copy and paste all this code piece by piece and make it work but please try to write it out. if you want to have any hope of existing in the digital age, you're going to need to be able to type at more than 20WPM, so practice makes perfect!)
