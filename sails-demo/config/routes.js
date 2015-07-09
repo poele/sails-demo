@@ -35,6 +35,10 @@ module.exports.routes = {
   '/': {
     // view: 'homepage'
     view: 'index'
+  },
+
+  '/sailors': {
+    view: 'sailors'
   }
 
   /***************************************************************************
