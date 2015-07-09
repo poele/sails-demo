@@ -52,7 +52,6 @@ sails is very similar to its homophone counterpart, rails, in that it works on t
 
 (note: you could just copy and paste all this code piece by piece and make it work but please try to write it out. if you want to have any hope of existing in the digital age, you're going to need to be able to type at more than 20WPM, so practice makes perfect!)
 
-5. now that you've got your route set up, head over to **config → views** and make an index.ejs. 
+5. now that you've got your route set up, head over to **config → views** and make an index.ejs. since sails runs on javascript, it automatically defaults to ejs files for templating, although you can specify a different templating library if you want. i guess. anyway, inside your index.ejs file, type... oh seriously. you can format hello world in a header tag by your damn self.
 
-
-now type ```sails generate api user``` in the 
+6. okay, ready? hope you've been saving or this'll have all been for naught. type ```sails lift``` in your console. visit http://localhost:1337 (because this is for leet programmers ONLY) to visit your homepage. welcome to the world of sails!
