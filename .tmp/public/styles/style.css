@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+body {
+	background-color: #222222;
+	color: white;
+	font-family: 'Source Code Pro';
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.var {
+	color: #60d9ec;
+}
+
+.string {
+	color: #e6dc6d;
+}
+
+.method {
+	color: white;
+}
+
+.equals {
+	color: #fc1f70;
+}

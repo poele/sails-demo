@@ -1,5 +1,5 @@
-/**
- * Cross-Site Request Forgery Protection Settings
+// https://github.com/poele/sails-demo/**
+ /* Cross-Site Request Forgery Protection Settings
  * (sails.config.csrf)
  *
  * CSRF tokens are like a tracking chip.  While a session tells the server that a user
